@@ -1,5 +1,5 @@
 # Author: Dominic Savaglio djs7129@psu.edu
-# Collaborator: Shakeb 
+# Collaborator: Shakeb Siddiqui sms8508@psu.edu
 grade_one = (input("Enter your course 1 letter grade: "))
 credit_one = float(input("Enter your course 1 credit: "))
 point_one = 0
@@ -43,7 +43,7 @@ elif grade_two == 'D':
   point_two = 1.0
 else:
   point_two = 0.0
-print(f"Grade point for course 2 is: {point_two} ")
+print(f"Grade point for course 2 is: {point_two}")
 grade_three = (input("Enter your course 3 letter grade: "))
 credit_three = float(input("Enter your course 3 credit: "))
 point_three = 0
